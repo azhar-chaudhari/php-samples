@@ -10,13 +10,12 @@
         JS;
     }
     ?>
-    ```
 
-    ```php
-        <?php
+    <?php
     $somevar="123";
     echo <<<HTML
         <b>b tag with  variable from php=$somevar</b>
     HTML;
     ?>
-        ```
+    
+    ```

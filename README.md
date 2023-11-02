@@ -1,7 +1,7 @@
 # php-samples
 
 |Sr.No. | Directory/Resource Name | Link |
-|--------------------------|------|
+|-------|-------------------|------|
 |1 | ci4- validation       | [ci4- validation](https://github.com/azhar-chaudhari/php-samples/tree/main/ci4-%20validation) |
 |2 | ci4- validation       | [ci4-basic](https://github.com/azhar-chaudhari/php-samples/tree/main/ci4-basic) |
 |3 | ci4- validation       | [ci4-cache](https://github.com/azhar-chaudhari/php-samples/tree/main/ci4-cache) |

@@ -16,3 +16,4 @@ Below is a list of the available code samples along with their directories and l
 |9 | CodeIgniter 4- on Shared Hosting | [ci4-shared-hosting](https://github.com/azhar-chaudhari/php-samples/tree/main/ci4-shared-hosting) |
 |10 | JavaScript Include       | [js-include](https://github.com/azhar-chaudhari/php-samples/tree/main/js-include) |
 |11 | Summernote       | [summernote](https://github.com/azhar-chaudhari/php-samples/tree/main/summernote) |
+|12 | IP-based Request Limiting       | [IP-based Request Limiting](https://github.com/azhar-chaudhari/php-samples/tree/main/IP-based%20Request%20Limiting) |

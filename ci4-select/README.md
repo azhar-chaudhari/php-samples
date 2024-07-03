@@ -73,3 +73,27 @@ app\Controllers\CategoryController.php
                                 </div>
                             </div>
 ```
+# Select Dropdown using table
+
+## Model -1
+```php
+     public function getCategories()
+    {
+        return $this
+            ->select('id,title')
+            ->orderBy('title', 'asc')
+            ->get()->getResultArray();
+    }
+```
+
+## Controller
+app\Controllers\ProductController.php
+```php
+    public function add()
+    {
+        $data = array();
+        $model= = new \App\Models\CategoryModel();
+        $data['status_data'] = $model->getCategories();
+        echo view('product_create', $data);
+    }
+```

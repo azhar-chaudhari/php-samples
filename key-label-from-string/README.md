@@ -1,8 +1,6 @@
 # key-label-from-string
    create a function that takes a key, replaces underscores with spaces, and capitalizes the first letter of each word.
 ```php
-   <?php
-
 $text = "SR.No. ………………
 
 PART – A – TO BE FILLED IN BY THE PARENTS / GUARDIAN
@@ -56,8 +54,8 @@ foreach ($keysArray as $key) {
 }
 
 print_r($labelsArray);
-?>
-    ```
+```
+
 ## output
 ```txt
 Array

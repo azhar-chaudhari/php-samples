@@ -1,4 +1,4 @@
-# js-include
+# key-label-from-string
    create a function that takes a key, replaces underscores with spaces, and capitalizes the first letter of each word.
 ```php
    <?php
